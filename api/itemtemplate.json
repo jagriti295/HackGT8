@@ -1,0 +1,55 @@
+{
+    "version": "1",
+    "packageIdentifiers": [
+      {
+        "type": "0",
+        "value": "101"
+      }
+    ],
+    "longDescription": {
+      "values": [
+        {
+          "locale": "en-US",
+          "value": "Milk"
+        }
+      ]
+    },
+    "shortDescription": {
+      "values": [
+        {
+          "locale": "en-US",
+          "value": "Milk"
+        }
+      ]
+    },
+    "merchandiseCategory": {
+      "nodeId": "Dairy"
+    },
+    "alternateCategories": [
+      
+    ],
+    "status": "ACTIVE",
+    "departmentId": "02",
+    "nonMerchandise": true,
+    "familyCode": "1",
+    "referenceId": "00000000000030",
+    "manufacturerCode": null,
+    "externalIdentifiers": null,
+    "dynamicAttributes": [
+      {
+        "type": "retail-item",
+        "attributes": [
+          {
+            "key": "ADDITIONAL_DESCRIPTION",
+            "value": null,
+            "localizedValue": null
+          },
+          {
+            "key": "ITEM_TYPE_CODE",
+            "value": "0",
+            "localizedValue": null
+          }
+        ]
+      }
+    ]
+  }

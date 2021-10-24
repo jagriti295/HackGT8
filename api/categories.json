@@ -1,0 +1,70 @@
+{
+    "nodes": [
+        {
+            "version": 6,
+            "nodeCode": "1",
+            "tag": "Grocery",
+            "departmentNode": null,
+            "departmentSale": null,
+            "status": "ACTIVE",
+            "title": {
+                "values": [
+                    {
+                        "locale": "en-US",
+                        "value": "Root"
+                    }
+                ]
+            },
+            "nodeId": {
+                "nodeId": "1"
+            },
+            "parentId": null            
+        },
+        {
+            "version": 6,
+            "nodeCode": "Diary",
+            "tag": "Merchandise",
+            "departmentNode": null,
+            "departmentSale": null,
+            "status": "ACTIVE",
+            "title": {
+                "values": [
+                    {
+                        "locale": "en-US",
+                        "value": "Diary"
+                    }
+                ]
+            },
+            "nodeId": {
+                "nodeId": "Dairy"
+            },
+            "parentId": {
+                "nodeId": "1"
+            }
+            
+        },  
+        {
+            "version": 6,
+            "nodeCode": "Vegetable",
+            "tag": "Merchandise",
+            "departmentNode": null,
+            "departmentSale": null,
+            "status": "ACTIVE",
+            "title": {
+                "values": [
+                    {
+                        "locale": "en-US",
+                        "value": "Vegetables"
+                    }
+                ]
+            },
+            "nodeId": {
+                "nodeId": "Vegetable"
+            },
+            "parentId": {
+                "nodeId": "1"
+            }
+            
+        }
+    ]
+}
